@@ -8,7 +8,7 @@
     <artifactId>TheOne</artifactId>
     <version>1.0.0-SNAPSHOT</version>
     <modules>
-        <module>cloud-provider-pament8001</module>
+        <module>choud-provider-payment8001</module>
     </modules>
 
     <packaging>pom</packaging>

@@ -20,13 +20,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fc956991-34f1-455d-81a6-ae0acbed4a98" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/cloud-provider-pament8001/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/TheOne.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/choud-provider-payment8001/choud-provider-payment8001.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/choud-provider-payment8001/src/main/java/com/jikaig/springcloud/PaymentMain8001.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/choud-provider-payment8001/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-provider-pament8001/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/choud-provider-payment8001/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -50,13 +65,14 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15917969" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -74,6 +90,7 @@
       <option name="presentableId" value="Default" />
       <updated>1592188117239</updated>
       <workItem from="1592188123225" duration="1925000" />
+      <workItem from="1592405617986" duration="2589000" />
     </task>
     <servers />
   </component>
@@ -90,15 +107,21 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="440" y="94" key="#Project_Structure" timestamp="1592207045792">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="440" y="94" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1592207045792" />
-    <state x="334" y="180" key="new project wizard" timestamp="1592207026119">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="461" y="224" key="SettingsEditor" timestamp="1592406603909">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="461" y="224" key="SettingsEditor/1920.0.1536.832/0.0.1920.1160@0.0.1920.1160" timestamp="1592406603909" />
+    <state x="334" y="201" key="new project wizard" timestamp="1592405683028">
+      <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="334" y="180" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1592207026119" />
+    <state x="334" y="201" key="new project wizard/1920.0.1536.832/0.0.1920.1160@0.0.1920.1160" timestamp="1592405683028" />
   </component>
 </project>

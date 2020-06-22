@@ -20,8 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fc956991-34f1-455d-81a6-ae0acbed4a98" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../TheTwo/cloud-provider-payment8001/src/main/java/com/jikaigg/cloud/controller/test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TheTwo/cloud-provider-payment8001/src/test/java/com/jikaigg/cloud/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheTwo/cloud-provider-payment8001/src/test/java/com/jikaigg/cloud/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TheTwo/cloud-provider-payment8001/src/test/java/com/jikaigg/cloud/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheTwo/cloud-provider-payment8001/target/test-classes/com/jikaigg/cloud/StaticDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheTwo/cloud-provider-payment8001/target/test-classes/com/jikaigg/cloud/test.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TheTwo/cloud-provider-payment8001/target/test-classes/com/jikaigg/cloud/test.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,7 +85,7 @@
       <updated>1592188117239</updated>
       <workItem from="1592188123225" duration="1925000" />
       <workItem from="1592405617986" duration="2589000" />
-      <workItem from="1592447366723" duration="2672000" />
+      <workItem from="1592447366723" duration="5494000" />
     </task>
     <servers />
   </component>

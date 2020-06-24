@@ -20,8 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fc956991-34f1-455d-81a6-ae0acbed4a98" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../TheTwo/cloud-provider-payment8001/src/main/java/com/jikaigg/cloud/entity/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheTwo/cloud-provider-payment8001/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TheTwo/cloud-provider-payment8001/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../TheTwo/cloud-provider-payment8001/src/test/java/com/jikaigg/cloud/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TheTwo/cloud-provider-payment8001/src/test/java/com/jikaigg/cloud/test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TheTwo/cloud-provider-payment8001/target/test-classes/com/jikaigg/cloud/StaticDemo.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../TheTwo/cloud-provider-payment8001/target/test-classes/com/jikaigg/cloud/test.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TheTwo/cloud-provider-payment8001/target/test-classes/com/jikaigg/cloud/test.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -109,22 +110,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="440" y="94" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1592207045792" />
-    <state width="1877" height="248" key="GridCell.Tab.0.bottom" timestamp="1592449397476">
+    <state width="1877" height="248" key="GridCell.Tab.0.bottom" timestamp="1592994745327">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="248" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1592449397476" />
-    <state width="1877" height="248" key="GridCell.Tab.0.center" timestamp="1592449397476">
+    <state width="1877" height="248" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1592994745327" />
+    <state width="1877" height="248" key="GridCell.Tab.0.center" timestamp="1592994745327">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="248" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1592449397476" />
-    <state width="1877" height="248" key="GridCell.Tab.0.left" timestamp="1592449397476">
+    <state width="1877" height="248" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1592994745327" />
+    <state width="1877" height="248" key="GridCell.Tab.0.left" timestamp="1592994745327">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="248" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1592449397476" />
-    <state width="1877" height="248" key="GridCell.Tab.0.right" timestamp="1592449397476">
+    <state width="1877" height="248" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1592994745327" />
+    <state width="1877" height="248" key="GridCell.Tab.0.right" timestamp="1592994745327">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="248" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1592449397476" />
+    <state width="1877" height="248" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1592994745327" />
     <state x="461" y="189" key="SettingsEditor" timestamp="1592449055119">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

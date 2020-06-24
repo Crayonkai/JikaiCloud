@@ -20,8 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="94f46e50-bf53-4db9-9f1c-a851655c317d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/cloud-provider-payment8001/src/main/java/com/jikaigg/cloud/entity/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8001/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8001/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cloud-provider-payment8001/src/test/java/com/jikaigg/cloud/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8001/src/test/java/com/jikaigg/cloud/test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8001/target/test-classes/com/jikaigg/cloud/StaticDemo.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/cloud-provider-payment8001/target/test-classes/com/jikaigg/cloud/test.class" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8001/target/test-classes/com/jikaigg/cloud/test.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,17 +60,17 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/cloud-provider-payment8001/src/main/resources" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
     <property name="project.structure.proportion" value="0.15917969" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\githuby\JikaiCloud\TheTwo\cloud-provider-payment8001\src\main\resources" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.test.test1">
+  <component name="RunManager" selected="JUnit.test.test2">
     <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.jikaigg.cloud.controller.test" />
       <module name="cloud-provider-payment8001" />
@@ -99,8 +100,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="test.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="cloud-provider-payment8001" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jikaigg.cloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.jikaigg.cloud" />
+      <option name="MAIN_CLASS_NAME" value="com.jikaigg.cloud.test" />
+      <option name="METHOD_NAME" value="test2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.test.test2" />
         <item itemvalue="JUnit.test.test1" />
         <item itemvalue="Application.test" />
       </list>
@@ -116,7 +134,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1592449452151</updated>
-      <workItem from="1592449454747" duration="6989000" />
+      <workItem from="1592449454747" duration="12300000" />
     </task>
     <servers />
   </component>
@@ -139,30 +157,34 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="440" y="94" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1592474781112" />
+    <state x="765" y="236" key="#com.intellij.ide.util.MemberChooser" timestamp="1592899771631">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="236" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1592899771631" />
     <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1592475667867">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1592475667867" />
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1592822158981">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1592994744187">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1592822158981" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1592822158981">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1592994744187" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1592994744187">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1592822158981" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1592822158981">
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1592994744187" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1592994744187">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1592822158981" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1592822158981">
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1592994744187" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1592994744187">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1592822158981" />
-    <state x="440" y="94" key="SettingsEditor" timestamp="1592821911542">
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1592994744187" />
+    <state x="440" y="94" key="SettingsEditor" timestamp="1592900186126">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="440" y="94" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1592821911542" />
+    <state x="440" y="94" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1592900186126" />
     <state x="334" y="180" key="new project wizard" timestamp="1592475500971">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
